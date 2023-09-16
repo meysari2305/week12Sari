@@ -1,0 +1,24 @@
+.registForm {
+  margin: 10% 20%;
+  padding: 10%;
+  max-width: 100%;
+  border: 2px rgb(241, 8, 8);
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(65, 31, 31);
+  background-color: rgb(234, 204, 115);
+  color: rgb(16, 10, 10);
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.h2 {
+  font-size: 32px;
+}
+
+.error {
+  color: red;
+}
+
+.button {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
